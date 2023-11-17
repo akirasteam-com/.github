@@ -14,7 +14,7 @@ Akira Site is one of our flagship projects, a meticulously crafted website that 
 
 ## How to Contribute:
 
-- Adding Bots: If you have a Discord bot that you'd like to showcase on Akira Site, feel free to reach out to us with the details!
+- Adding Bots: If you have a Discord bot that you'd like to showcase on Akira Site, add!
 - Improving Design: We welcome contributions to enhance the design and user interface of Akira Site.
 - Feedback: Your feedback is valuable to us. Let us know how we can improve and better serve the Discord community.
 
